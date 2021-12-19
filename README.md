@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Megha Rai</h1>
-<h3 align="center">A passionate Student in MNNIT</h3>
+<h3 align="center">A passionate Student in MNNIT , who is innovative, creative, adaptable to change, and like to learn new things daily..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=megharai13&label=Profile%20views&color=0e75b6&style=flat" alt="megharai13" /> </p>
 
